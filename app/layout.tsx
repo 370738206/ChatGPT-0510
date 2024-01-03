@@ -10,7 +10,7 @@ import { getServerSideConfig } from "./config/server";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "NextChat",
+  title: "NextChat-JIUMU部署",
   description: "更多需求联系QQ群：296313037",
   viewport: {
     width: "device-width",
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "NextChat",
+    title: "NextChat-JIUMU部署",
     statusBarStyle: "default",
   },
 };
