@@ -11,7 +11,7 @@ const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
   title: "NextChat-JIUMU部署",
-  description: "更多需求联系QQ群：296313037",
+  description: "反馈问题/其他需求联系QQ群：296313037",
   viewport: {
     width: "device-width",
     initialScale: 1,
