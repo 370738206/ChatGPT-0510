@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           NextChat-JIUMU部署
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          反馈问题/其他需求联系QQ群：296313037，群内有GPT-4等其他模型试用.
+          反馈问题/其他需求联系QQ群：296313037，模型框有惊喜~.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
